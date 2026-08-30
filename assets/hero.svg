@@ -1,0 +1,45 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070A09"/>
+      <stop offset="1" stop-color="#0A100D"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 30) rotate(135) scale(430 430)">
+      <stop stop-color="#10B981" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(90 330) rotate(-35) scale(440 300)">
+      <stop stop-color="#2DD4BF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#34D399"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowA)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowB)"/>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="27.5" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <circle cx="84" cy="77" r="7" fill="#34D399"/>
+  <circle cx="84" cy="77" r="22" fill="#34D399" fill-opacity="0.14" filter="url(#shadow)"/>
+  <text x="106" y="84" fill="#8AA197" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="2">BUILDING IN PUBLIC</text>
+
+  <text x="80" y="178" fill="#EDF5F1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">ADHAM MAHMOOD</text>
+  <text x="82" y="231" fill="url(#accent)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="28" font-weight="600">software  →  intelligence</text>
+  <text x="82" y="284" fill="#8AA197" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20">Learning systems deeply. Shipping real things. Moving toward AI/ML engineering.</text>
+
+  <g transform="translate(942 236)">
+    <rect width="174" height="50" rx="25" fill="#0D1713" stroke="#34D399" stroke-opacity="0.25"/>
+    <text x="87" y="31" fill="#BDEEDB" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">adhamcodes</text>
+  </g>
+</svg>
