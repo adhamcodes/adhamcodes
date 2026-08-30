@@ -3,27 +3,18 @@
 </p>
 
 <p align="center">
-  <b>Building systems from first principles.</b><br/>
-  <sub>Shipping tools · breaking things · fixing them · documenting the climb</sub>
-</p>
-
-<p align="center">
   <code>Python</code> · <code>Software Engineering</code> · <code>Git</code> · <code>Systems</code> · <code>Backend</code> · <code>ML Foundations</code>
 </p>
 
----
-
-### `> CURRENT_MISSION`
+### `> CURRENT_PROCESS`
 
 <p align="center">
-  <img src="./assets/mission.svg" alt="Foundry180 current mission" width="100%" />
+  <img src="./assets/mission.svg" alt="Foundry180 — current process" width="100%" />
 </p>
 
 ```text
-learn → predict → build → debug → prove → advance
+learn → predict → build → break → debug → prove → advance
 ```
-
----
 
 ### `> SYSTEMS_SHIPPED`
 
@@ -32,7 +23,7 @@ learn → predict → build → debug → prove → advance
 <td width="50%" valign="top">
 
 #### [ZeroUpload](https://github.com/adhamcodes/ZeroUpload)
-Privacy-first browser file tooling. Processing stays on-device instead of uploading to a server.
+Privacy-first browser file tooling. Processing stays on-device instead of uploading files to a server.
 
 `TypeScript` `Browser APIs` `Privacy`
 
@@ -66,37 +57,26 @@ A practical Git/GitHub course built around prediction, inspection, break/recover
 </tr>
 </table>
 
----
-
-### `> BUILD_PHILOSOPHY`
+### `> BUILD_PROTOCOL`
 
 ```text
-fundamentals > hype
-understanding > copying
-build > consume
-reliability > demos
+01  learn the model
+02  predict before running
+03  build without hiding behind tutorials
+04  break the system on purpose
+05  debug from evidence
+06  explain what happened
+07  ship what survives
 ```
 
-I’m deliberately starting from the foundation rather than collecting frameworks.
-
-The target is to become the kind of engineer who can enter an unfamiliar system, understand it, make sound trade-offs, build something useful, debug it when it breaks, and improve it from there.
-
----
+> `fundamentals > hype` · `understanding > copying` · `build > consume` · `reliability > demos`
 
 ### `> TRAJECTORY`
 
-```text
-software engineering
-        ↓
-computer systems
-        ↓
-backend + production engineering
-        ↓
-machine learning
-        ↓
-AI/ML systems
-```
+<p align="center">
+  <img src="./assets/trajectory.svg" alt="Software engineering to AI/ML systems trajectory" width="100%" />
+</p>
 
 <p align="center">
-  <sub>status: building · learning in public · no fake titles</sub>
+  <sub>STATUS: BUILDING · LEARNING IN PUBLIC · NO FAKE TITLES · NO FAKE METRICS</sub>
 </p>
