@@ -1,82 +1,65 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Adham Codes — software to systems to intelligence" width="100%" />
+  <img src="./assets/research-hero.svg" alt="Adham Mahmood — software to systems to intelligence" width="100%" />
 </p>
 
 <p align="center">
   <code>Python</code> · <code>Software Engineering</code> · <code>Git</code> · <code>Systems</code> · <code>Backend</code> · <code>ML Foundations</code>
 </p>
 
+<p align="center">
+  <sub>Building the foundation first. Shipping evidence as I go.</sub>
+</p>
+
 ### `> CURRENT_PROCESS`
 
 <p align="center">
-  <img src="./assets/mission.svg" alt="Foundry180 — current process" width="100%" />
+  <img src="./assets/research-mission.svg" alt="Foundry180 current process" width="100%" />
 </p>
 
-```text
-learn → predict → build → break → debug → prove → advance
-```
+### `> SELECTED_PROOF`
 
-### `> SYSTEMS_SHIPPED`
+<p align="center">
+  <img src="./assets/research-systems.svg" alt="Selected systems shipped" width="100%" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [ZeroUpload](https://github.com/adhamcodes/ZeroUpload)
-Privacy-first browser file tooling. Processing stays on-device instead of uploading files to a server.
-
-`TypeScript` `Browser APIs` `Privacy`
-
-</td>
-<td width="50%" valign="top">
-
-#### [AI/ML Engineering Academy](https://github.com/adhamcodes/AI-ML-Engineering-Academy)
-A mastery-based learning system spanning mathematics, classical ML, deep learning, LLMs, agents, MLOps and system design.
-
-`ML` `Deep Learning` `LLMs` `MLOps`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [AI Automation Engineering Academy](https://github.com/adhamcodes/AI-Automation-Engineering-Academy)
-A build-first curriculum for APIs, workflows, Python automation, AI systems, reliability and commercial engineering.
-
-`Python` `APIs` `Automation` `Agents`
-
-</td>
-<td width="50%" valign="top">
-
-#### [Git & GitHub — Zero to Independent](https://github.com/adhamcodes/git-github-course)
-A practical Git/GitHub course built around prediction, inspection, break/recover drills and real collaboration workflows.
-
-`Git` `GitHub` `Recovery` `Collaboration`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/adhamcodes/ZeroUpload"><b>ZeroUpload</b></a> ·
+  <a href="https://github.com/adhamcodes/AI-ML-Engineering-Academy"><b>AI/ML Engineering Academy</b></a> ·
+  <a href="https://github.com/adhamcodes/AI-Automation-Engineering-Academy"><b>AI Automation Academy</b></a> ·
+  <a href="https://github.com/adhamcodes/git-github-course"><b>Git & GitHub Course</b></a>
+</p>
 
 ### `> BUILD_PROTOCOL`
 
-```text
-01  learn the model
-02  predict before running
-03  build without hiding behind tutorials
-04  break the system on purpose
-05  debug from evidence
-06  explain what happened
-07  ship what survives
-```
-
-> `fundamentals > hype` · `understanding > copying` · `build > consume` · `reliability > demos`
+<p align="center">
+  <img src="./assets/research-protocol.svg" alt="Build protocol" width="100%" />
+</p>
 
 ### `> TRAJECTORY`
 
 <p align="center">
-  <img src="./assets/trajectory.svg" alt="Software engineering to AI/ML systems trajectory" width="100%" />
+  <img src="./assets/research-trajectory.svg" alt="Engineering trajectory" width="100%" />
 </p>
 
+<details>
+<summary><b>read the operator notes</b></summary>
+<br/>
+
+I’m deliberately building from first principles instead of collecting frameworks.
+
+The goal is to become the kind of engineer who can enter an unfamiliar system, form a correct mental model, make sound trade-offs, build something useful, debug it from evidence, and improve it without depending on a tutorial.
+
+```text
+fundamentals > hype
+understanding > copying
+build > consume
+reliability > demos
+```
+
+Long-term direction: **AI/ML engineering and increasingly capable intelligent systems.**
+
+</details>
+
 <p align="center">
-  <sub>STATUS: BUILDING · LEARNING IN PUBLIC · NO FAKE TITLES · NO FAKE METRICS</sub>
+  <sub>BUILD_IN_PUBLIC=1 · FAKE_TITLES=0 · SHORTCUT_STACK=0</sub>
 </p>
