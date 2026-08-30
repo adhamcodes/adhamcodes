@@ -1,45 +1,60 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="410" viewBox="0 0 1200 410" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#070A09"/>
-      <stop offset="1" stop-color="#0A100D"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="410" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07090D"/>
+      <stop offset="1" stop-color="#0B1018"/>
     </linearGradient>
-    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 30) rotate(135) scale(430 430)">
-      <stop stop-color="#10B981" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(90 330) rotate(-35) scale(440 300)">
-      <stop stop-color="#2DD4BF" stop-opacity="0.14"/>
-      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
-    </pattern>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#34D399"/>
-      <stop offset="1" stop-color="#2DD4BF"/>
+    <linearGradient id="line" x1="60" y1="0" x2="1138" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F81F7" stop-opacity="0"/>
+      <stop offset="0.42" stop-color="#2F81F7" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#3FB950" stop-opacity="0.15"/>
     </linearGradient>
-    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="10"/>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="8"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#glowA)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#glowB)"/>
-  <rect x="0.5" y="0.5" width="1199" height="359" rx="27.5" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect width="1200" height="410" rx="22" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="409" rx="21.5" stroke="#30363D"/>
+  <rect width="1200" height="48" rx="22" fill="#0D1117"/>
+  <path d="M0 48H1200" stroke="#21262D"/>
 
-  <circle cx="84" cy="77" r="7" fill="#34D399"/>
-  <circle cx="84" cy="77" r="22" fill="#34D399" fill-opacity="0.14" filter="url(#shadow)"/>
-  <text x="106" y="84" fill="#8AA197" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="2">BUILDING IN PUBLIC</text>
+  <circle cx="28" cy="24" r="5" fill="#FF7B72"/>
+  <circle cx="47" cy="24" r="5" fill="#D29922"/>
+  <circle cx="66" cy="24" r="5" fill="#3FB950"/>
+  <text x="92" y="30" fill="#8B949E" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">adham@github:~</text>
+  <text x="1118" y="30" fill="#484F58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">PROFILE.SYS</text>
 
-  <text x="80" y="178" fill="#EDF5F1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">ADHAM MAHMOOD</text>
-  <text x="82" y="231" fill="url(#accent)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="28" font-weight="600">software  →  intelligence</text>
-  <text x="82" y="284" fill="#8AA197" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20">Learning systems deeply. Shipping real things. Moving toward AI/ML engineering.</text>
+  <text x="58" y="92" fill="#3FB950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">$ whoami</text>
+  <text x="58" y="128" fill="#F0F6FC" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="28" font-weight="700">adhamcodes</text>
 
-  <g transform="translate(942 236)">
-    <rect width="174" height="50" rx="25" fill="#0D1713" stroke="#34D399" stroke-opacity="0.25"/>
-    <text x="87" y="31" fill="#BDEEDB" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">adhamcodes</text>
-  </g>
+  <text x="58" y="174" fill="#3FB950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">$ cat trajectory.txt</text>
+  <text x="58" y="210" fill="#58A6FF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="25" font-weight="600">software  →  systems  →  intelligence</text>
+
+  <text x="58" y="260" fill="#3FB950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">$ status --current</text>
+  <text x="58" y="296" fill="#8B949E" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">FOUNDATIONS</text>
+  <text x="210" y="296" fill="#3FB950" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">ACTIVE</text>
+  <text x="58" y="326" fill="#8B949E" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">FOUNDRY180</text>
+  <text x="210" y="326" fill="#D29922" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">BUILDING</text>
+  <text x="58" y="356" fill="#8B949E" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">AI / ML</text>
+  <text x="210" y="356" fill="#58A6FF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">ON DECK</text>
+
+  <rect x="705" y="91" width="435" height="265" rx="16" fill="#0D1117" stroke="#21262D"/>
+  <text x="738" y="126" fill="#8B949E" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="1.6">RUNTIME / BUILD MODE</text>
+  <path d="M738 145H1107" stroke="url(#line)"/>
+
+  <circle cx="754" cy="184" r="6" fill="#3FB950"/>
+  <circle cx="754" cy="184" r="15" fill="#3FB950" fill-opacity="0.12" filter="url(#glow)"/>
+  <text x="780" y="190" fill="#F0F6FC" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16">learn deeply</text>
+
+  <circle cx="754" cy="226" r="6" fill="#58A6FF"/>
+  <text x="780" y="232" fill="#F0F6FC" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16">ship real systems</text>
+
+  <circle cx="754" cy="268" r="6" fill="#D29922"/>
+  <text x="780" y="274" fill="#F0F6FC" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16">break → debug → understand</text>
+
+  <circle cx="754" cy="310" r="6" fill="#A371F7"/>
+  <text x="780" y="316" fill="#F0F6FC" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16">build in public</text>
+
+  <text x="738" y="340" fill="#484F58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">no fake titles. no shortcut stack.</text>
 </svg>
