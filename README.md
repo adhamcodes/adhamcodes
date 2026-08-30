@@ -1,42 +1,46 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Adham Mahmood — software to intelligence" width="100%" />
+  <img src="./assets/hero.svg" alt="Adham Codes — software to systems to intelligence" width="100%" />
 </p>
 
 <p align="center">
-  <b>Building the engineering foundation for a long-term path into AI/ML systems.</b><br/>
-  <sub>Learning in public · shipping real tools · documenting the climb</sub>
+  <b>Building systems from first principles.</b><br/>
+  <sub>Shipping tools · breaking things · fixing them · documenting the climb</sub>
 </p>
 
 <p align="center">
-  <code>Python</code> · <code>Software Engineering</code> · <code>Git</code> · <code>Systems</code> · <code>Backend</code> · <code>ML foundations</code>
+  <code>Python</code> · <code>Software Engineering</code> · <code>Git</code> · <code>Systems</code> · <code>Backend</code> · <code>ML Foundations</code>
 </p>
 
 ---
 
-<p align="center">
-  <img src="./assets/mission.svg" alt="Current mission: Foundry180" width="100%" />
-</p>
+### `> CURRENT_MISSION`
 
 <p align="center">
-  <code>learn → predict → build → debug → prove → advance</code>
+  <img src="./assets/mission.svg" alt="Foundry180 current mission" width="100%" />
 </p>
 
-## Selected systems
+```text
+learn → predict → build → debug → prove → advance
+```
+
+---
+
+### `> SYSTEMS_SHIPPED`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [ZeroUpload](https://github.com/adhamcodes/ZeroUpload)
-Privacy-first file tooling that processes files locally in the browser instead of uploading them to a server.
+#### [ZeroUpload](https://github.com/adhamcodes/ZeroUpload)
+Privacy-first browser file tooling. Processing stays on-device instead of uploading to a server.
 
-`TypeScript` `Browser APIs` `Privacy-first`
+`TypeScript` `Browser APIs` `Privacy`
 
 </td>
 <td width="50%" valign="top">
 
-### [AI/ML Engineering Academy](https://github.com/adhamcodes/AI-ML-Engineering-Academy)
-A mastery-based path from mathematics and classical ML through deep learning, LLM systems, agents, MLOps and AI system design.
+#### [AI/ML Engineering Academy](https://github.com/adhamcodes/AI-ML-Engineering-Academy)
+A mastery-based learning system spanning mathematics, classical ML, deep learning, LLMs, agents, MLOps and system design.
 
 `ML` `Deep Learning` `LLMs` `MLOps`
 
@@ -45,15 +49,15 @@ A mastery-based path from mathematics and classical ML through deep learning, LL
 <tr>
 <td width="50%" valign="top">
 
-### [AI Automation Engineering Academy](https://github.com/adhamcodes/AI-Automation-Engineering-Academy)
-A build-first curriculum for APIs, workflows, Python automation, AI systems, reliability, security and commercial engineering.
+#### [AI Automation Engineering Academy](https://github.com/adhamcodes/AI-Automation-Engineering-Academy)
+A build-first curriculum for APIs, workflows, Python automation, AI systems, reliability and commercial engineering.
 
 `Python` `APIs` `Automation` `Agents`
 
 </td>
 <td width="50%" valign="top">
 
-### [Git & GitHub — Zero to Independent](https://github.com/adhamcodes/git-github-course)
+#### [Git & GitHub — Zero to Independent](https://github.com/adhamcodes/git-github-course)
 A practical Git/GitHub course built around prediction, inspection, break/recover drills and real collaboration workflows.
 
 `Git` `GitHub` `Recovery` `Collaboration`
@@ -62,11 +66,9 @@ A practical Git/GitHub course built around prediction, inspection, break/recover
 </tr>
 </table>
 
-## The direction
+---
 
-I’m deliberately starting from fundamentals rather than collecting frameworks.
-
-The target is simple: become the kind of engineer who can enter an unfamiliar system, understand it, make sound trade-offs, build something useful, debug it when it breaks, and keep improving it.
+### `> BUILD_PHILOSOPHY`
 
 ```text
 fundamentals > hype
@@ -75,10 +77,26 @@ build > consume
 reliability > demos
 ```
 
-Long term → **AI/ML engineering and increasingly capable intelligent systems.**
+I’m deliberately starting from the foundation rather than collecting frameworks.
+
+The target is to become the kind of engineer who can enter an unfamiliar system, understand it, make sound trade-offs, build something useful, debug it when it breaks, and improve it from there.
 
 ---
 
+### `> TRAJECTORY`
+
+```text
+software engineering
+        ↓
+computer systems
+        ↓
+backend + production engineering
+        ↓
+machine learning
+        ↓
+AI/ML systems
+```
+
 <p align="center">
-  <sub>software → intelligence</sub>
+  <sub>status: building · learning in public · no fake titles</sub>
 </p>
