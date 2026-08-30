@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/research-hero.svg" alt="Adham Mahmood — software to systems to intelligence" width="100%" />
+  <img src="./assets/final-hero.svg" alt="Adham Mahmood — software to systems to intelligence" width="100%" />
 </p>
 
 <p align="center">
@@ -7,59 +7,49 @@
 </p>
 
 <p align="center">
-  <sub>Building the foundation first. Shipping evidence as I go.</sub>
+  <sub>Building systems from first principles. Shipping tools, breaking things, fixing them.</sub>
 </p>
 
-### `> CURRENT_PROCESS`
+## Current
 
 <p align="center">
-  <img src="./assets/research-mission.svg" alt="Foundry180 current process" width="100%" />
+  <img src="./assets/final-current.svg" alt="Foundry180 — current build" width="100%" />
 </p>
 
-### `> SELECTED_PROOF`
+<p align="center">
+  <code>learn → predict → build → break → debug → prove → ship</code>
+</p>
+
+## Selected work
 
 <p align="center">
-  <img src="./assets/research-systems.svg" alt="Selected systems shipped" width="100%" />
+  <img src="./assets/research-systems.svg" alt="Selected systems and learning infrastructure" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/adhamcodes/ZeroUpload"><b>ZeroUpload</b></a> ·
   <a href="https://github.com/adhamcodes/AI-ML-Engineering-Academy"><b>AI/ML Engineering Academy</b></a> ·
   <a href="https://github.com/adhamcodes/AI-Automation-Engineering-Academy"><b>AI Automation Academy</b></a> ·
-  <a href="https://github.com/adhamcodes/git-github-course"><b>Git & GitHub Course</b></a>
+  <a href="https://github.com/adhamcodes/git-github-course"><b>Git & GitHub — Zero to Independent</b></a>
 </p>
 
-### `> BUILD_PROTOCOL`
+---
 
 <p align="center">
-  <img src="./assets/research-protocol.svg" alt="Build protocol" width="100%" />
-</p>
-
-### `> TRAJECTORY`
-
-<p align="center">
-  <img src="./assets/research-trajectory.svg" alt="Engineering trajectory" width="100%" />
+  <code>fundamentals &gt; hype</code> ·
+  <code>understanding &gt; copying</code> ·
+  <code>build &gt; consume</code> ·
+  <code>reliability &gt; demos</code>
 </p>
 
 <details>
-<summary><b>read the operator notes</b></summary>
+<summary><b>direction</b></summary>
 <br/>
 
-I’m deliberately building from first principles instead of collecting frameworks.
+I’m deliberately building the engineering foundation first instead of collecting frameworks.
 
-The goal is to become the kind of engineer who can enter an unfamiliar system, form a correct mental model, make sound trade-offs, build something useful, debug it from evidence, and improve it without depending on a tutorial.
+The target is simple: become the kind of engineer who can enter an unfamiliar system, understand it, make sound trade-offs, build something useful, debug it from evidence, and keep improving from there.
 
-```text
-fundamentals > hype
-understanding > copying
-build > consume
-reliability > demos
-```
-
-Long-term direction: **AI/ML engineering and increasingly capable intelligent systems.**
+Long term: **AI/ML engineering and increasingly capable intelligent systems.**
 
 </details>
-
-<p align="center">
-  <sub>BUILD_IN_PUBLIC=1 · FAKE_TITLES=0 · SHORTCUT_STACK=0</sub>
-</p>
