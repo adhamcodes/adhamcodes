@@ -2,17 +2,71 @@
   <img src="./assets/hero.svg" alt="Adham Mahmood — software to intelligence" width="100%" />
 </p>
 
-## Building toward AI/ML engineering
+<p align="center">
+  <b>Building the engineering foundation for a long-term path into AI/ML systems.</b><br/>
+  <sub>Learning in public · shipping real tools · documenting the climb</sub>
+</p>
 
-I’m rebuilding my software engineering foundation from first principles and documenting the journey in public.
+<p align="center">
+  <code>Python</code> · <code>Software Engineering</code> · <code>Git</code> · <code>Systems</code> · <code>Backend</code> · <code>ML foundations</code>
+</p>
 
-Right now, my focus is simple:
+---
 
-- understand systems instead of memorizing tools
-- build more than I consume
-- learn Python and software engineering deeply
-- move toward machine learning, deep learning, and production AI systems
-- ship useful tools and learning infrastructure along the way
+<p align="center">
+  <img src="./assets/mission.svg" alt="Current mission: Foundry180" width="100%" />
+</p>
+
+<p align="center">
+  <code>learn → predict → build → debug → prove → advance</code>
+</p>
+
+## Selected systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [ZeroUpload](https://github.com/adhamcodes/ZeroUpload)
+Privacy-first file tooling that processes files locally in the browser instead of uploading them to a server.
+
+`TypeScript` `Browser APIs` `Privacy-first`
+
+</td>
+<td width="50%" valign="top">
+
+### [AI/ML Engineering Academy](https://github.com/adhamcodes/AI-ML-Engineering-Academy)
+A mastery-based path from mathematics and classical ML through deep learning, LLM systems, agents, MLOps and AI system design.
+
+`ML` `Deep Learning` `LLMs` `MLOps`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [AI Automation Engineering Academy](https://github.com/adhamcodes/AI-Automation-Engineering-Academy)
+A build-first curriculum for APIs, workflows, Python automation, AI systems, reliability, security and commercial engineering.
+
+`Python` `APIs` `Automation` `Agents`
+
+</td>
+<td width="50%" valign="top">
+
+### [Git & GitHub — Zero to Independent](https://github.com/adhamcodes/git-github-course)
+A practical Git/GitHub course built around prediction, inspection, break/recover drills and real collaboration workflows.
+
+`Git` `GitHub` `Recovery` `Collaboration`
+
+</td>
+</tr>
+</table>
+
+## The direction
+
+I’m deliberately starting from fundamentals rather than collecting frameworks.
+
+The target is simple: become the kind of engineer who can enter an unfamiliar system, understand it, make sound trade-offs, build something useful, debug it when it breaks, and keep improving it.
 
 ```text
 fundamentals > hype
@@ -21,51 +75,10 @@ build > consume
 reliability > demos
 ```
 
-## Current mission
-
-**Foundry180** — a 180-day software engineering academy I’m building as my own training system.
-
-The goal is to turn it into a serious browser-based learning platform with structured lessons, exercises, automated checking, mastery tracking, reviews, projects, and real engineering work through VS Code.
-
-> learn → predict → build → debug → prove → advance
-
-## Selected work
-
-### [AI/ML Engineering Academy](https://github.com/adhamcodes/AI-ML-Engineering-Academy)
-A free, self-guided, mastery-based path from mathematical foundations through classical ML, deep learning, LLM systems, agents, MLOps, and AI system design.
-
-### [AI Automation Engineering Academy](https://github.com/adhamcodes/AI-Automation-Engineering-Academy)
-A build-first curriculum for APIs, workflows, Python automation, AI-powered systems, agents, reliability, security, and commercial engineering.
-
-### [ZeroUpload](https://github.com/adhamcodes/ZeroUpload)
-A privacy-first file toolkit where conversion and processing happen locally in the browser instead of uploading files to a server.
-
-### [Git & GitHub — Zero to Independent](https://github.com/adhamcodes/git-github-course)
-A practical Git/GitHub course built around prediction, inspection, break/recover drills, cumulative mastery gates, and real collaboration workflows.
-
-## What I’m learning now
-
-```text
-Software engineering foundations
-Python
-Git & GitHub
-Testing and debugging
-Computer systems
-Data structures & algorithms
-APIs and backend engineering
-Machine learning foundations
-```
-
-## Direction
-
-I’m not trying to collect frameworks.
-
-I’m trying to become the kind of engineer who can enter an unfamiliar system, understand it, reason about trade-offs, build something useful, debug it when it breaks, and keep improving from there.
-
-Long term, that path leads toward **AI/ML engineering** and increasingly capable intelligent systems.
+Long term → **AI/ML engineering and increasingly capable intelligent systems.**
 
 ---
 
 <p align="center">
-  <sub>building in public • learning deeply • shipping continuously</sub>
+  <sub>software → intelligence</sub>
 </p>
