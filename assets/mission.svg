@@ -1,0 +1,9 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse"><stop stop-color="#090D0B"/><stop offset="1" stop-color="#0B1511"/></linearGradient><radialGradient id="g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 24) rotate(140) scale(360 300)"><stop stop-color="#10B981" stop-opacity=".22"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="250" rx="24" fill="url(#bg)"/><rect width="1200" height="250" rx="24" fill="url(#g)"/><rect x=".5" y=".5" width="1199" height="249" rx="23.5" stroke="#FFFFFF" stroke-opacity=".09"/>
+<text x="58" y="56" fill="#6F887E" font-family="ui-monospace,Consolas,monospace" font-size="15" letter-spacing="2">CURRENT MISSION / 01</text>
+<text x="58" y="113" fill="#EEF6F2" font-family="Inter,system-ui,sans-serif" font-size="38" font-weight="700">Foundry180</text>
+<text x="58" y="153" fill="#34D399" font-family="ui-monospace,Consolas,monospace" font-size="20">180 days → one engineering foundation</text>
+<text x="58" y="196" fill="#8EA69B" font-family="Inter,system-ui,sans-serif" font-size="17">A browser-native academy with real exercises, checking, mastery, reviews and VS Code labs.</text>
+<g transform="translate(962 76)"><rect width="172" height="42" rx="21" fill="#0B2118" stroke="#34D399" stroke-opacity=".35"/><circle cx="25" cy="21" r="5" fill="#34D399"/><text x="98" y="27" text-anchor="middle" fill="#C8F5E3" font-family="ui-monospace,Consolas,monospace" font-size="13">IN DEVELOPMENT</text></g>
+</svg>
