@@ -1,0 +1,90 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="500" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#080B10"/>
+    <stop offset=".52" stop-color="#090D13"/>
+    <stop offset="1" stop-color="#0B1018"/>
+  </linearGradient>
+  <linearGradient id="bus" x1="0" y1="0" x2="0" y2="1">
+    <stop stop-color="#58A6FF"/>
+    <stop offset=".5" stop-color="#A371F7"/>
+    <stop offset="1" stop-color="#3FB950"/>
+  </linearGradient>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" stroke="#30363D" stroke-opacity=".12"/></pattern>
+</defs>
+
+<rect width="1200" height="500" rx="22" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="1199" height="499" rx="21.5" stroke="#30363D"/>
+<rect x="1" y="1" width="1198" height="498" rx="21" fill="url(#grid)"/>
+<text x="42" y="41" fill="#6E7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.8">SELECTED SYSTEMS // PUBLIC PROOF</text>
+<text x="1158" y="41" text-anchor="end" fill="#484F58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.3">BUILD GRAPH</text>
+<path d="M42 57H1158" stroke="#21262D"/>
+
+<!-- central system bus -->
+<path d="M600 88V444" stroke="#21262D" stroke-width="10" stroke-linecap="round"/>
+<path d="M600 88V444" stroke="url(#bus)" stroke-width="2" stroke-linecap="round" stroke-dasharray="120 280" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="0;-400" dur="3.8s" repeatCount="indefinite"/></path>
+<text x="618" y="105" fill="#484F58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.2">SYSTEM BUS</text>
+
+<!-- connectors -->
+<g stroke="#30363D" stroke-width="1.4">
+  <path d="M600 132H520C490 132 478 146 458 146H392"/>
+  <path d="M600 210H680C710 210 722 194 742 194H808"/>
+  <path d="M600 310H520C490 310 478 326 458 326H392"/>
+  <path d="M600 390H680C710 390 722 374 742 374H808"/>
+</g>
+
+<g fill="#F0F6FC" filter="url(#glow)">
+  <circle r="4"><animateMotion dur="3.2s" repeatCount="indefinite" path="M600 132H520C490 132 478 146 458 146H392"/></circle>
+  <circle r="4"><animateMotion dur="3.6s" begin="-.8s" repeatCount="indefinite" path="M600 210H680C710 210 722 194 742 194H808"/></circle>
+  <circle r="4"><animateMotion dur="4s" begin="-1.5s" repeatCount="indefinite" path="M600 310H520C490 310 478 326 458 326H392"/></circle>
+  <circle r="4"><animateMotion dur="3.4s" begin="-2s" repeatCount="indefinite" path="M600 390H680C710 390 722 374 742 374H808"/></circle>
+</g>
+
+<!-- ZEROUPLOAD -->
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <rect x="42" y="92" width="350" height="108" rx="15" fill="#0D1117" fill-opacity=".88" stroke="#30363D"/>
+  <text x="66" y="119" fill="#6E7681" font-size="9" letter-spacing="1.4">01 / LIVE PRODUCT</text>
+  <text x="66" y="151" fill="#58A6FF" font-size="21" font-weight="700">ZEROUPLOAD</text>
+  <text x="66" y="176" fill="#C9D1D9" font-size="11">private browser-local file tooling</text>
+  <circle cx="362" cy="116" r="4" fill="#3FB950"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- PORTFOLIO -->
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <rect x="808" y="140" width="350" height="108" rx="15" fill="#0D1117" fill-opacity=".88" stroke="#30363D"/>
+  <text x="832" y="167" fill="#6E7681" font-size="9" letter-spacing="1.4">02 / LIVING IDENTITY SYSTEM</text>
+  <text x="832" y="199" fill="#A371F7" font-size="21" font-weight="700">MASTER 2.0</text>
+  <text x="832" y="224" fill="#C9D1D9" font-size="11">state → experience → world</text>
+  <circle cx="1128" cy="164" r="4" fill="#D29922"><animate attributeName="r" values="3;5;3" dur="2.6s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- AI/ML ACADEMY -->
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <rect x="42" y="272" width="350" height="108" rx="15" fill="#0D1117" fill-opacity=".88" stroke="#30363D"/>
+  <text x="66" y="299" fill="#6E7681" font-size="9" letter-spacing="1.4">03 / OPEN LEARNING SYSTEM</text>
+  <text x="66" y="331" fill="#A371F7" font-size="18" font-weight="700">AI / ML ACADEMY</text>
+  <text x="66" y="356" fill="#C9D1D9" font-size="11">mastery gates from math to production AI</text>
+  <circle cx="362" cy="296" r="4" fill="#3FB950"/>
+</g>
+
+<!-- AUTOMATION ACADEMY -->
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <rect x="808" y="320" width="350" height="108" rx="15" fill="#0D1117" fill-opacity=".88" stroke="#30363D"/>
+  <text x="832" y="347" fill="#6E7681" font-size="9" letter-spacing="1.4">04 / OPEN LEARNING SYSTEM</text>
+  <text x="832" y="379" fill="#D29922" font-size="17" font-weight="700">AUTOMATION ACADEMY</text>
+  <text x="832" y="404" fill="#C9D1D9" font-size="11">APIs · Python · agents · reliability</text>
+  <circle cx="1128" cy="344" r="4" fill="#3FB950"/>
+</g>
+
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#6E7681">
+  <circle cx="600" cy="132" r="6" fill="#0D1117" stroke="#58A6FF"/><circle cx="600" cy="132" r="2.5" fill="#58A6FF"/>
+  <circle cx="600" cy="210" r="6" fill="#0D1117" stroke="#A371F7"/><circle cx="600" cy="210" r="2.5" fill="#A371F7"/>
+  <circle cx="600" cy="310" r="6" fill="#0D1117" stroke="#A371F7"/><circle cx="600" cy="310" r="2.5" fill="#A371F7"/>
+  <circle cx="600" cy="390" r="6" fill="#0D1117" stroke="#D29922"/><circle cx="600" cy="390" r="2.5" fill="#D29922"/>
+</g>
+
+<path d="M42 462H1158" stroke="#21262D"/>
+<text x="42" y="482" fill="#484F58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.25">TOOLS / LEARNING SYSTEMS / PRODUCTS / IDENTITY ARCHITECTURE</text>
+<circle cx="1152" cy="478" r="3" fill="#58A6FF"><animate attributeName="opacity" values=".2;1;.2" dur="1.6s" repeatCount="indefinite"/></circle>
+</svg>
