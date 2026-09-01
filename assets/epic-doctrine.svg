@@ -1,0 +1,21 @@
+<svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="210" gradientUnits="userSpaceOnUse"><stop stop-color="#080B10"/><stop offset="1" stop-color="#0A0F16"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58A6FF" stop-opacity="0"/><stop offset=".48" stop-color="#58A6FF"/><stop offset=".72" stop-color="#A371F7"/><stop offset="1" stop-color="#3FB950" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="210" rx="20" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="1199" height="209" rx="19.5" stroke="#30363D"/>
+<text x="43" y="39" fill="#6E7681" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">OPERATING DOCTRINE // NON-NEGOTIABLES</text>
+<path d="M43 54H1157" stroke="#21262D"/>
+
+<g font-family="Inter,Arial,sans-serif" font-weight="800" font-size="25">
+  <text x="43" y="102" fill="#F0F6FC">UNDERSTANDING</text><text x="263" y="102" fill="#484F58">&gt;</text><text x="291" y="102" fill="#8B949E">COPYING</text>
+  <text x="650" y="102" fill="#F0F6FC">RELIABILITY</text><text x="805" y="102" fill="#484F58">&gt;</text><text x="833" y="102" fill="#8B949E">DEMOS</text>
+  <text x="43" y="151" fill="#F0F6FC">BUILD</text><text x="121" y="151" fill="#484F58">&gt;</text><text x="149" y="151" fill="#8B949E">CONSUME</text>
+  <text x="650" y="151" fill="#F0F6FC">FUNDAMENTALS</text><text x="842" y="151" fill="#484F58">&gt;</text><text x="870" y="151" fill="#8B949E">HYPE</text>
+</g>
+
+<rect x="-360" y="181" width="360" height="2" fill="url(#line)"><animate attributeName="x" values="-360;1200" dur="6.4s" repeatCount="indefinite"/></rect>
+<circle cx="43" cy="190" r="3.5" fill="#3FB950"><animate attributeName="opacity" values=".25;1;.25" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="56" y="194" fill="#484F58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.2">KEEP MOVING. KEEP PROVING.</text>
+</svg>
