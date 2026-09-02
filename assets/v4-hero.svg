@@ -25,11 +25,11 @@
 <text x="84" y="30" fill="#66707D" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6">ADHAM / PROFILE.SYS / 04</text>
 <text x="1130" y="30" text-anchor="end" fill="#66707D" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.4">SIGNAL / LIVE</text><circle class="pulse" cx="1147" cy="25" r="4" fill="#39D98A"/>
 
-<text x="70" y="102" fill="#66707D" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2.7">IDENTITY / UNDER CONSTRUCTION</text>
+<text x="70" y="102" fill="#66707D" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2.7">CURRENTLY LEARNING</text>
 <text x="67" y="177" fill="url(#name)" font-family="Inter,Arial,sans-serif" font-size="76" font-weight="900" letter-spacing="-4">ADHAM</text>
 <text x="67" y="247" fill="#070B11" stroke="#697583" stroke-width="1.45" font-family="Inter,Arial,sans-serif" font-size="76" font-weight="900" letter-spacing="-4">MAHMOOD</text>
 <text x="71" y="291" fill="#D8E1EB" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="600">software engineering → intelligent systems</text>
-<text x="71" y="321" fill="#697583" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing=".7">BUILDING THE FOUNDATION. FOLLOWING THE EVIDENCE.</text>
+<text x="71" y="321" fill="#697583" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing=".7">LEARNING BY BUILDING, BREAKING, AND FIXING.</text>
 
 <g opacity=".92">
   <circle cx="985" cy="225" r="128" stroke="#21262D" stroke-width="1.2"/><circle cx="985" cy="225" r="92" stroke="#30363D" stroke-opacity=".7" stroke-dasharray="3 12"/>
@@ -39,7 +39,7 @@
   <circle cx="985" cy="133" r="5" fill="#0D1117" stroke="#A371F7"/><circle cx="1074" cy="249" r="5" fill="#0D1117" stroke="#39D98A"/><circle cx="902" cy="264" r="5" fill="#0D1117" stroke="#58A6FF"/>
 </g>
 <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-  <text x="803" y="95" fill="#66707D" font-size="9" letter-spacing="1.7">CURRENT VECTOR</text>
+  <text x="803" y="95" fill="#66707D" font-size="9" letter-spacing="1.7">CURRENT DIRECTION</text>
   <text x="803" y="119" fill="#D8E1EB" font-size="12">01 / SOFTWARE ENGINEERING</text><circle cx="1158" cy="115" r="3.5" fill="#58A6FF"/>
   <text x="803" y="345" fill="#D8E1EB" font-size="12">02 / AI · ML ENGINEERING</text><circle cx="1158" cy="341" r="3.5" fill="#A371F7"/>
   <text x="803" y="371" fill="#D8E1EB" font-size="12">03 / AI AUTOMATION</text><circle cx="1158" cy="367" r="3.5" fill="#39D98A"/>

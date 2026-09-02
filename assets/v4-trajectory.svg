@@ -7,8 +7,8 @@
   <style>.dash{stroke-dasharray:145 900;animation:dash 5.8s linear infinite}.dash2{stroke-dasharray:90 500;animation:dash2 4.3s linear infinite}.pulse{animation:pulse 2.4s ease-in-out infinite}@keyframes dash{to{stroke-dashoffset:-1045}}@keyframes dash2{to{stroke-dashoffset:-590}}@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.dash,.dash2,.pulse{animation:none}}</style>
 </defs>
 <rect width="1200" height="390" rx="22" fill="url(#bg)"/><rect width="1200" height="390" rx="22" fill="url(#grid)"/><rect x=".5" y=".5" width="1199" height="389" rx="21.5" stroke="#30363D"/>
-<text x="44" y="41" fill="#66707D" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">THE ASCENT // ONE CAREER · THREE FORCES</text>
-<text x="1156" y="41" text-anchor="end" fill="#49515C" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.3">TRUTHFUL STATE / 2026</text><path d="M44 58H1156" stroke="#21262D"/>
+<text x="44" y="41" fill="#66707D" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">WHERE I'M HEADED</text>
+<text x="1156" y="41" text-anchor="end" fill="#49515C" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.3">STARTING POINT / 2026</text><path d="M44 58H1156" stroke="#21262D"/>
 
 <path d="M100 194 C240 194 262 154 390 154 C535 154 563 112 704 112 C852 112 890 102 1098 102" stroke="#21262D" stroke-width="9" stroke-linecap="round"/>
 <path class="dash" d="M100 194 C240 194 262 154 390 154 C535 154 563 112 704 112 C852 112 890 102 1098 102" stroke="url(#main)" stroke-width="2.4" stroke-linecap="round" filter="url(#glow)"/>
@@ -17,17 +17,17 @@
 
 <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
   <circle cx="100" cy="194" r="14" fill="#0D1117" stroke="#D29922" stroke-width="2"/><circle class="pulse" cx="100" cy="194" r="4" fill="#D29922"/>
-  <text x="74" y="236" fill="#D29922" font-size="10" letter-spacing="1.4">ORIGIN</text><text x="74" y="259" fill="#F0F6FC" font-size="19" font-weight="700">FOUNDRY180</text><text x="74" y="280" fill="#66707D" font-size="10">system built · run begins at zero</text>
+  <text x="74" y="236" fill="#D29922" font-size="10" letter-spacing="1.4">START</text><text x="74" y="259" fill="#F0F6FC" font-size="19" font-weight="700">FOUNDRY180</text><text x="74" y="280" fill="#66707D" font-size="10">built for my learning · starting at 0 / 180</text>
 
   <circle cx="390" cy="154" r="14" fill="#0D1117" stroke="#58A6FF" stroke-width="2"/><circle cx="390" cy="154" r="4" fill="#58A6FF"/>
   <text x="340" y="109" fill="#58A6FF" font-size="10" letter-spacing="1.4">FOUNDATION</text><text x="340" y="132" fill="#F0F6FC" font-size="18" font-weight="700">SOFTWARE ENGINEERING</text>
 
   <circle cx="658" cy="267" r="14" fill="#0D1117" stroke="#39D98A" stroke-width="2"/><circle cx="658" cy="267" r="4" fill="#39D98A"/>
-  <text x="603" y="309" fill="#39D98A" font-size="10" letter-spacing="1.4">LEVERAGE</text><text x="603" y="332" fill="#F0F6FC" font-size="18" font-weight="700">AI AUTOMATION</text>
+  <text x="603" y="309" fill="#39D98A" font-size="10" letter-spacing="1.4">TOOL</text><text x="603" y="332" fill="#F0F6FC" font-size="18" font-weight="700">AI AUTOMATION</text>
 
   <circle cx="1098" cy="102" r="15" fill="#0D1117" stroke="#A371F7" stroke-width="2"/><circle class="pulse" cx="1098" cy="102" r="4.5" fill="#A371F7"/>
-  <text x="931" y="145" fill="#A371F7" font-size="10" letter-spacing="1.4">DESTINATION</text><text x="931" y="169" fill="#F0F6FC" font-size="19" font-weight="700">AI / ML ENGINEERING</text><text x="931" y="190" fill="#66707D" font-size="10">math → models → production systems</text>
+  <text x="931" y="145" fill="#A371F7" font-size="10" letter-spacing="1.4">LONG-TERM DIRECTION</text><text x="931" y="169" fill="#F0F6FC" font-size="19" font-weight="700">AI / ML ENGINEERING</text><text x="931" y="190" fill="#66707D" font-size="10">math → models → production systems</text>
 </g>
 <path d="M44 350H1156" stroke="#21262D"/>
-<text x="44" y="372" fill="#49515C" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.35">THE ROUTE MAY EVOLVE. THE FOUNDATION DOES NOT GET SKIPPED.</text>
+<text x="44" y="372" fill="#49515C" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.35">THE PLAN CAN CHANGE. THE FOUNDATIONS COME FIRST.</text>
 </svg>
