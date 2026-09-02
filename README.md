@@ -3,47 +3,37 @@
 </p>
 
 <p align="center">
-  <strong>Building an engineering career from first principles.</strong><br/>
-  <sub>Software Engineering at the foundation · AI/ML Engineering as the destination · AI Automation as leverage</sub>
+  <strong>Rebuilding from the foundations, one real skill and one real project at a time.</strong><br/>
+  <sub>Software engineering first · AI/ML long term · automation where it helps</sub>
 </p>
 
-## Starting line
+## Where I'm starting
 
 <p align="center">
   <img src="./assets/v4-trajectory.svg" alt="Foundry180 begins Adham's path through software engineering toward AI and ML engineering, with AI automation as leverage" width="100%" />
 </p>
 
-**Foundry180** is the starting system: a private, self-guided 180-unit software engineering academy built around Python, reasoning, debugging, testing, Git, projects, and independent engineering.
+**Foundry180** is the private learning system I built for myself: 180 units covering Python, problem-solving, debugging, testing, Git, projects, and the habits I want to build as an engineer.
 
-The system is built. The personal run begins honestly at **zero**.
+I start using it now. Progress begins at **0 / 180**.
 
-## Career systems
+## What I'm learning
 
-| System | Purpose | State |
+| Track | Focus | Status |
 |:--|:--|:--|
-| **Foundry180** | Software foundations, independent problem-solving, production habits | Private · real-world use begins now |
+| **Foundry180** | Software foundations, problem-solving, debugging, testing, and projects | Private · starting now |
 | [AI/ML Engineering Academy](https://github.com/adhamcodes/AI-ML-Engineering-Academy) | Mathematics → ML → deep learning → LLM systems → MLOps | Public curriculum |
-| [AI Automation Engineering Academy](https://github.com/adhamcodes/AI-Automation-Engineering-Academy) | APIs, workflows, Python, agents, reliability, operations | Public curriculum |
+| [AI Automation Engineering Academy](https://github.com/adhamcodes/AI-Automation-Engineering-Academy) | APIs, workflows, Python, agents, reliability, and operations | Public curriculum |
 
-## Public work
+## What I'm building
 
-| Build | What it is |
+| Project | What it is |
 |:--|:--|
-| [ZeroUpload](https://github.com/adhamcodes/ZeroUpload) · [Live ↗](https://zeroupload.app) | Browser-local file tools built around a simple promise: your files stay on your device. |
-| [Git & GitHub Academy](https://github.com/adhamcodes/git-github-course) | A practical path from Git fundamentals to independent recovery and collaboration. |
-| [Master 2.0](https://github.com/adhamcodes/My-Portfolio) | My ongoing portfolio rebuild and living engineering identity. |
+| [ZeroUpload](https://github.com/adhamcodes/ZeroUpload) · [Live ↗](https://zeroupload-8e8.pages.dev) | File conversion and editing that runs in your browser, so your files stay on your device. |
+| [Git & GitHub Academy](https://github.com/adhamcodes/git-github-course) | A hands-on Git course focused on understanding what Git is doing, recovering from mistakes, and collaborating safely. |
+| [My Portfolio](https://github.com/adhamcodes/My-Portfolio) | The portfolio I'm rebuilding now. It changes as my work and learning change. |
 
-Quiet, CopyKit, and Nexus are being kept off the public stage until they earn their next version.
-
-<details>
-<summary><b>Operating doctrine</b></summary>
-<br/>
-
-`understanding > copying` · `reliability > demos` · `building > consuming` · `fundamentals > hype`
-
-The goal is not to collect repositories. It is to become an engineer who can understand, build, test, debug, and improve real systems — with AI used as leverage rather than a substitute for understanding.
-
-</details>
+I use AI a lot, but I don't want it to hide the engineering from me. The goal is to understand what I build well enough to debug it, improve it, and explain why it works.
 
 ---
 
@@ -52,5 +42,3 @@ The goal is not to collect repositories. It is to become an engineer who can und
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/adhamcodes?tab=repositories"><b>EXPLORE PUBLIC WORK ↗</b></a>
 </p>
-
-<p align="center"><sub><code>new era: foundation first / fewer things / stronger things</code></sub></p>
